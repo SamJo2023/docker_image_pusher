@@ -12,4 +12,3 @@ pgvector/pgvector:0.7.0-pg15
 ghcr.io/labring/fastgpt:v4.8.11
 ghcr.io/sujaykumarh/docsify:latest
 yokohide0317/docling:2.5.2
-riddlej/docling:3.11-slim-bookworm-2024-12-03-22-45-19
