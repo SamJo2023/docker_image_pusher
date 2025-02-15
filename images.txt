@@ -11,4 +11,14 @@ mongo:4.4.29
 pgvector/pgvector:0.7.0-pg15
 ghcr.io/labring/fastgpt:v4.8.11
 ghcr.io/sujaykumarh/docsify:latest
-yokohide0317/docling:2.5.2
+ghcr.io/labring/fastgpt:v4.8.21-fix
+ghcr.io/labring/fastgpt:v4.8.20-fix2
+ghcr.io/labring/fastgpt:v4.8.19-beta
+ghcr.io/labring/fastgpt:v4.8.18-fix
+ghcr.io/labring/fastgpt:v4.8.17-fix-title
+ghcr.io/labring/fastgpt:v4.8.16
+ghcr.io/labring/fastgpt:v4.8.15-fix3
+ghcr.io/labring/fastgpt:v4.8.14-fix
+ghcr.io/labring/fastgpt:v4.8.13-fix
+ghcr.io/labring/fastgpt:v4.8.12-fix
+ghcr.io/labring/fastgpt:v4.8.11-fix
