@@ -22,3 +22,4 @@ ghcr.io/labring/fastgpt:v4.8.14-fix
 ghcr.io/labring/fastgpt:v4.8.13-fix
 ghcr.io/labring/fastgpt:v4.8.12-fix
 ghcr.io/labring/fastgpt:v4.8.11-fix
+--platform=linux/amd64 ollama/ollama
