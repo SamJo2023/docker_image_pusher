@@ -9,17 +9,17 @@ ghcr.io/labring/fastgpt-sandbox:v4.8.11
 ghcr.io/songquanpeng/one-api:v0.6.7
 mongo:4.4.29
 pgvector/pgvector:0.7.0-pg15
-ghcr.io/labring/fastgpt:v4.8.11
+# ghcr.io/labring/fastgpt:v4.8.11
 ghcr.io/sujaykumarh/docsify:latest
 ghcr.io/labring/fastgpt:v4.8.21-fix
-ghcr.io/labring/fastgpt:v4.8.20-fix2
-ghcr.io/labring/fastgpt:v4.8.19-beta
-ghcr.io/labring/fastgpt:v4.8.18-fix
-ghcr.io/labring/fastgpt:v4.8.17-fix-title
-ghcr.io/labring/fastgpt:v4.8.16
-ghcr.io/labring/fastgpt:v4.8.15-fix3
-ghcr.io/labring/fastgpt:v4.8.14-fix
-ghcr.io/labring/fastgpt:v4.8.13-fix
-ghcr.io/labring/fastgpt:v4.8.12-fix
-ghcr.io/labring/fastgpt:v4.8.11-fix
+# ghcr.io/labring/fastgpt:v4.8.20-fix2
+# ghcr.io/labring/fastgpt:v4.8.19-beta
+# ghcr.io/labring/fastgpt:v4.8.18-fix
+# ghcr.io/labring/fastgpt:v4.8.17-fix-title
+# ghcr.io/labring/fastgpt:v4.8.16
+# ghcr.io/labring/fastgpt:v4.8.15-fix3
+# ghcr.io/labring/fastgpt:v4.8.14-fix
+# ghcr.io/labring/fastgpt:v4.8.13-fix
+# ghcr.io/labring/fastgpt:v4.8.12-fix
+# ghcr.io/labring/fastgpt:v4.8.11-fix
 --platform=linux/amd64 ollama/ollama
